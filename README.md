@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611wmn1izzpkn8dqbsqhrxkd7bqysxnsw8e1izm7mpf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" width="250" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611wmn1izzpkn8dqbsqhrxkd7bqysxnsw8e1izm7mpf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -51,12 +51,18 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jamlmao/jamlmao/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/user=r6phnqclx6o0esk4tj5daslyl" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/r6phnqclx6o0esk4tj5daslyl">
+   <img src="https://spotify-recently-played-readme.vercel.app/api?user=r6phnqclx6o0esk4tj5daslyl&count=5" alt="Spotify recently played" />
+  </a>
 </div>
 
 ###
