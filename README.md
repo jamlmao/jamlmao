@@ -6,7 +6,12 @@
  </a>
 </h1>
 
-<h3 align = "center"> Aspiring and passionate web developer from Philippines 🇵🇭 </h3>
+<h3 align = "center"> Aspiring and passionate web developer from Philippines 🇵🇭 </h3>\
+
+
+<div align = "center">
+       👩🏻‍💻 currently learning JAVA 
+</div>
 <br/>
 
 ###
