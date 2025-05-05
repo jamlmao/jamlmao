@@ -1,9 +1,7 @@
 <img align="right" src ='"https://visitor-badge.laobi.icu/badge?page_id=jamlmao.visitor-badge&left_color=%2914281D&right_color=%29355834"'/>
 
 <h1 align="center" >
- <a href="https://git.io/typing-svg">
-   <img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=35&center=true&v-Center=true&pause=1000&color=4E9C71&width=500&height=70&lines=%F0%9F%91%8B+hello world!;Jam+is+here+%F0%9F%98%84" alt="Typing SVG" />
- </a>
+    Helloo jam here ^^
 </h1>
 
 <h3 align = "center"> Aspiring and passionate web developer from Philippines 🇵🇭 </h3>
