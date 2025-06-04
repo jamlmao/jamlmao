@@ -8,7 +8,7 @@
 
 
 <div align = "center">
-       👩🏻‍💻 currently learning JAVA 
+       👩🏻‍💻 
 </div>
 <br/>
 
