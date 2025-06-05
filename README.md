@@ -1,16 +1,6 @@
-<img align="right" src ='"https://visitor-badge.laobi.icu/badge?page_id=jamlmao.visitor-badge&left_color=%2914281D&right_color=%29355834"'/>
+<h2 align="left">Hi 👋! My name is Jam and I'm a Web Developer from Philippines</h2>
 
-<h1 align="center" >
-    Helloo jam here ^^
-</h1>
-
-<h3 align = "center"> Aspiring and passionate web developer from Philippines 🇵🇭 </h3>
-
-
-<div align = "center">
-       👩🏻‍💻 
-</div>
-<br/>
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamlmao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -59,10 +49,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamlmao/jamlmao/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamlmao/jamlmao/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jamlmao/jamlmao/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/jamlmao/jamlmao/output/snake.svg" alt="Snake animation" />
 
 ###
