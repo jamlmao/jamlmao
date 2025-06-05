@@ -11,17 +11,15 @@
        👩🏻‍💻 
 </div>
 <br/>
-
 ###
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamlmao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamlmao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jamlmao&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" width="250" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611wmn1izzpkn8dqbsqhrxkd7bqysxnsw8e1izm7mpf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFmN3FkOXh0cDF6ZzJnMjRqand1bjByNHZjYnpkN2phdXI0bngzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
 
@@ -38,8 +36,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/java-original.svg" height="30" alt="mysql logo"  />
-    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
 
 ###
@@ -51,30 +52,17 @@
   <a href="https://www.instagram.com/jamlmao_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/r6phnqclx6o0esk4tj5daslyl">
-   <img src="https://spotify-recently-played-readme.vercel.app/api?user=r6phnqclx6o0esk4tj5daslyl&count=5" alt="Spotify recently played" />
+  <a href="https://discordapp.com/users/541078215175962624" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jamlmao/count.svg?"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamlmao/jamlmao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamlmao/jamlmao/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jamlmao/jamlmao/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
