@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jam and I'm a Web Developer from Philippines</h2>
+<h2 align="left">Hi 👋! My name is John (jam is my nickname :) ) and I'm a Web Developer from Philippines</h2>
 
 ###
 
