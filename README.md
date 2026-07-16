@@ -1,37 +1,38 @@
-<h2 align="left">Hi 👋! My name is John ( jam is my nickname ^^ ) and I'm a SoftWare Developer from Philippines</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-header-dark.svg">
+  <img alt="Terminal typing the whoami command — John 'jam' Agustin, software developer from the Philippines" src="assets/terminal-header-light.svg" width="840">
+</picture>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
+  <img alt="neofetch card — Stack: TypeScript, React, Next.js, Tailwind CSS, MySQL" src="assets/neofetch-light.svg" width="840">
+</picture>
 
-<img align="right" height="115" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE5dXg5Ym0xMzFyaDNyNTE2dG00eWs0bDh1dmk2OXFiYmwzZWM4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif"  />
+#### `~$ cat ~/now.txt`
 
-###
+```text
+▸ building things for the web with Next.js + Tailwind
+▸ sharpening my TypeScript — one strict-mode error at a time
+▸ open to collabs and interesting problems — say hi 👋
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+#### `~$ git log --stat`
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jamlmao&show_icons=true&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=3fb950&icon_color=58a6ff&ring_color=3fb950">
+  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=jamlmao&show_icons=true&hide_border=true&bg_color=00000000&text_color=656d76&title_color=1a7f37&icon_color=0969da&ring_color=1a7f37">
+</picture><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamlmao&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=3fb950">
+  <img alt="Most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamlmao&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=656d76&title_color=1a7f37">
+</picture>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/john-rome-agustin-05505b2a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+#### `~$ play snake`
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamlmao/jamlmao/output/snake-dark.svg">
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/jamlmao/jamlmao/output/snake-light.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/jamlmao/jamlmao/output/snake.svg" alt="Snake animation" />
+#### `~$ open linkedin`
 
-###
+[**linkedin.com/in/john-rome-agustin**](https://www.linkedin.com/in/john-rome-agustin-05505b2a3/) — `connection established ✓`
